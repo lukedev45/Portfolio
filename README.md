@@ -12,7 +12,7 @@ This repo contains my **first basic website**, built only with HTML, as part of 
 - 🛠️ I like working on technical projects that combine science, coding, and creativity  
 
 ## 📂 What You’ll Find Here
-- A very simple HTML site — the starting point for my portfolio  
+- A very simple HTML site, the starting point for my portfolio  
 - Future projects will include more advanced sites, tools, and technical experiments  
 
 ## 🚀 Next Steps
